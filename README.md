@@ -1,0 +1,1 @@
+This project will be a basic shell website to execute HTML skills for practice.
